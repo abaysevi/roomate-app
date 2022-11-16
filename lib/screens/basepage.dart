@@ -46,7 +46,7 @@ class _BasePageState extends State<BasePage> {
           BottomNavigationBarItem(
             icon: Icon(Icons.notifications),
             label: 'Notifications',
-            backgroundColor: Colors.blue,
+            backgroundColor: Colors.pinkAccent,
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.account_circle_rounded),
